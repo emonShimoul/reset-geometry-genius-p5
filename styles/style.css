@@ -1,0 +1,22 @@
+.nav {
+    background: rgba(16, 144, 216, 0.1);
+}
+
+.shape img {
+    height: 194px;
+    padding: 20px 40px;
+}
+
+.input-area input {
+    width: 75px;
+}
+
+@media only screen and (max-width: 576px) {
+    #calculation-body {
+        height: 800px;
+    }
+
+    .calculation {
+        margin-top: 30px;
+    }
+}
